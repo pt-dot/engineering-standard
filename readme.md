@@ -57,6 +57,7 @@ c. Error message / debug message hanya boleh ditampilkan pada mode `development`
 ### 1.3 PHP Coding Standard
 
 a. Harus mengikuti PHP [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
+
 b. Harus Mengikuti PHP [PSR-2: Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
 
 PSR-2 overview:
