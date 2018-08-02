@@ -24,7 +24,7 @@ DOT engineering standard merupakan panduan bagi developer internal atau partner 
 
 4. QA Engineering Standard
     4.1 Tools & Development Stacks
-    4.2 Template
+    4.2 Documents
 
 5. Contribution
 
@@ -214,7 +214,7 @@ c. Hindari penggunaan query `SELECT *`, gunakan select hanya yang PERLU di-selec
 + Firebase Test Lab
 + Sentry
 
-### 4.2 Document
+### 4.2 Documents
 
 + User Story
 + Test Scenario
