@@ -21,7 +21,12 @@ DOT engineering standard merupakan panduan bagi developer internal atau partner 
     2.2 RDBMS Engineering Standard
 
 3. Frontend Engineering Standard
-4. Contribution
+
+4. QA Engineering Standard
+    4.1 Tools & Development Stacks
+    4.2 Template
+
+5. Contribution
 
 ## 1. Backend Engineering Standard
 
@@ -195,3 +200,24 @@ b. Gunakan nama table dan kolom dengan jelas dan konsisten.
 c. Hindari penggunaan query `SELECT *`, gunakan select hanya yang PERLU di-select saja.
 
 ## 3. Frontend Engineering Standard
+
+## 4. QA Engineering Standard
+
+### 4.1 Tools & Development Stacks
+
++ Postman
++ Newman
++ Codeception
++ Katalon / Laravel Dusk / Selenium
++ Jenkins
++ Jmeter
++ Firebase Test Lab
++ Sentry
+
+### 4.2 Document
+
++ User Story
++ Test Scenario
++ Manual Book
++ TSD
++ FSD
