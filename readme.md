@@ -22,5 +22,3 @@ Internal engineer silakan berkontribusi untuk membuat guideline ini bisa lebih l
 + Edit file readme sesuai dengan kebutuhan lalu commit.
 + Ajukan pull request
 + AVP divisi atau VP of engineering akan melakukan review dan melakukan approval Pull Request.
-
-Jika ada pertanyaan atau permintaan update silakan untuk mengajukan issue di repository terkait.
