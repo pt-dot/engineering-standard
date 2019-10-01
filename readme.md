@@ -10,7 +10,6 @@ DOT engineering standard merupakan panduan bagi developer internal atau partner 
 4. Frontend Guideline (segera)
 5. API Standar (segera)
 6. Git Workflow Handbook (segera)
-7. Trello Workflow Handbook (WIP)
 
 ---
 # Panduan Kontribusi
