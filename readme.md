@@ -7,9 +7,9 @@ DOT engineering standard merupakan panduan bagi developer internal atau partner 
 1. [Development Stack & Tools](https://github.com/pt-dot/development-stack-tools)
 2. [PHP & Laravel Guidelines untuk Backend](https://github.com/pt-dot/php-guidelines)
 3. Database Engineering Guideline (Segera)
-4. Frontend Guideline (segera)
+4. [Frontend Guideline ](https://github.com/pt-dot/frontend-guideline)
 5. API Standar (segera)
-6. Git Workflow Handbook (segera)
+6. [Git Workflow Handbook](https://github.com/pt-dot/git-handbook)
 
 ---
 # Panduan Kontribusi
